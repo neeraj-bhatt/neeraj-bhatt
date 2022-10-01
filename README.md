@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Linux Kernel**
 
-- 🤝 I’m looking for help with [linux](https://github.com/torvalds/linux.git)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/neeraj-bhatt-b31aa024a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neeraj bhatt" height="30" width="40" /></a>
