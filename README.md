@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neeraj Bhatt</h1>
-<h3 align="center">3rd Year B.Sc(H) Computer Science student at Ramanujan College(DU)</h3>
+<h3 align="center">I am just a Computer Science enthusiast who finds programming fascinating</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neeraj-bhatt&label=Profile%20views&color=0e75b6&style=flat" alt="neeraj-bhatt" /> </p>
 
